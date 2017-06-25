@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Siam</string>
+    <string name="title">ม. สยาม</string>
+    <string name="login">Login</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="new_register">New Register</string>
+    <string name="name">Name</string>
+
+    <!--For Dialog-->
+    <string name="titleHaveSpace">มีช่องว่าง</string>
+    <string name="messageHaveSpace">กรุณากรอกทุกช่อง คะ</string>
+    <string name="titleUserFalse">User False</string>
+    <string name="messageUerFalse">ไม่มี User นี่ใน ฐานข้อมูล</string>
+    <string name="titlePasswordFalse">Password ผิด</string>
+    <string name="messagePasswordFalse">ลองใหม่ Password ผิด</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
