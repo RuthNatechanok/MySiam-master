@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">My Siam</string>
-    <string name="title">ม. สยาม</string>
-    <string name="login">Login</string>
-    <string name="user">User</string>
-    <string name="password">Password</string>
-    <string name="new_register">New Register</string>
-    <string name="name">Name</string>
+    <string name="app_name">ขอความช่วยเหลือฉุกเฉิน</string>
+    <string name="title">ขอความช่วยเหลือฉุกเฉิน</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="user">ชื่อผู้ใช้</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="new_register">สมัครสมาชิก</string>
+    <string name="name">ชื่อ</string>
 
     <!--For Dialog-->
     <string name="titleHaveSpace">มีช่องว่าง</string>
@@ -13,7 +13,7 @@
     <string name="titleUserFalse">User False</string>
     <string name="messageUerFalse">ไม่มี User นี่ใน ฐานข้อมูล</string>
     <string name="titlePasswordFalse">Password ผิด</string>
-    <string name="messagePasswordFalse">ลองใหม่ Password ผิด</string>
+    <string name="messagePasswordFalse">รหัสผ่านไม่ถูกต้องกรุณาลองใหม่อีกครั้ง</string>
     <string name="title_activity_maps">Map</string>
 
 

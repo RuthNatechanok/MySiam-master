@@ -47,7 +47,7 @@
             android:padding="@dimen/padding">
 
             <ImageView
-                android:src="@drawable/logo_siam"
+                android:src="@mipmap/sos_pic"
                 android:layout_gravity="center_horizontal"
                 android:layout_width="@dimen/icon"
                 android:layout_height="@dimen/icon" />
